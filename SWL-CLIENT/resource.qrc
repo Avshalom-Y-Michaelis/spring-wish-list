@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Spring.qml</file>
+        <file>SpringImages.qml</file>
+        <file>SidePanel.qml</file>
+        <file>Region.qml</file>
+        <file>TryComponent.qml</file>
+        <file>AllRegions.qml</file>
+        <file>RegionSpringsList.qml</file>
+        <file>AllRegionsSprings.qml</file>
+        <file>TextInputResponsiv.qml</file>
+        <file>ColorStore.qml</file>
+    </qresource>
+</RCC>

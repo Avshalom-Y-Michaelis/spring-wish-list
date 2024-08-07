@@ -1,0 +1,2 @@
+singleton ColorStore 1.0 ColorStore.qml
+singleton SizesStore 1.0 SizesStore.qml

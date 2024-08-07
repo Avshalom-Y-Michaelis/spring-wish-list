@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ColorStore.qml</file>
+        <file>qmldir</file>
+        <file>SizesStore.qml</file>
+    </qresource>
+</RCC>

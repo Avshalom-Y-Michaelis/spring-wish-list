@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/darkIcon.png</file>
+        <file>icons/drawerIcon.png</file>
+        <file>icons/editIcon.png</file>
+        <file>icons/goBackIcon.png</file>
+        <file>icons/hasBeenVisited.png</file>
+        <file>icons/hseNotBeenViseted.png</file>
+        <file>icons/lightIcon.png</file>
+        <file>icons/newIcon.png</file>
+        <file>icons/quitIcon.png</file>
+        <file>icons/regionIcon.jpg</file>
+        <file>icons/springIcon.png</file>
+    </qresource>
+</RCC>
